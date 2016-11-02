@@ -1,7 +1,7 @@
 # 2DCharacterAnimMaker
 2D character animation based on standing foot to avoid sliping.
 
-This is the source project of paper [基于分层图像的建模与漫游] ({{site.url}}/Resources/2007LayerImage.pdf) in Chinese.
+This is the source project of paper [基于分层图像的建模与漫游](https://hanhonglei.github.io/Resources/2007LayerImage.pdf) in Chinese.
 
 You can also find the information of this paper in the `publications` page [here](https://hanhonglei.github.io/publications/)
 
