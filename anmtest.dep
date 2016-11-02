@@ -1,0 +1,12 @@
+# Microsoft Developer Studio Generated Dependency File, included by Lesson33.mak
+
+.\Lesson33.cpp : \
+	".\Texture.h"\
+	"e:\microsoft visual studio\vc98\include\basetsd.h"\
+	
+
+.\TGALoader.cpp : \
+	".\Texture.h"\
+	".\Tga.h"\
+	"e:\microsoft visual studio\vc98\include\basetsd.h"\
+	

@@ -1,0 +1,1 @@
+AnmTest.exe brachio.gif r
