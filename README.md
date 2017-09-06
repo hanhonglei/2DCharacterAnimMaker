@@ -19,3 +19,7 @@ You can also find the information of this paper in the `publications` page [here
 ```javascript
 AnmTest.exe brachio.gif r
 ```
+
+----
+
+- This project is under [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/), please check it in the root folder.
